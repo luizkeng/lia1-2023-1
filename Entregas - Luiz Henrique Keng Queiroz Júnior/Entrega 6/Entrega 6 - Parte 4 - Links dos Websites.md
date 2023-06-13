@@ -1,0 +1,2 @@
+- [Hugging Face](https://huggingface.co/spaces/luizkeng/minima)
+- [GitHub Pages - KengApps](https://luizkeng.github.io/)
