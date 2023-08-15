@@ -1,1 +1,1 @@
-Repositório para Conteúdos de Aula e Projetos Entregues pelos alunos!!
+Repositório para Conteúdos de Aula e Projetos Entregues pelos alunos!
